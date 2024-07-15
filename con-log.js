@@ -119,3 +119,9 @@ for (let i = 0; i < cars.length; i++) {
 }
 console.log(ext);
 
+let slovo = "";
+
+for (let i = 0; i < 5; i++) {
+  text += "The number is " + i + "\n";
+}
+console.log(slovo);
